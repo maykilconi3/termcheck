@@ -11,10 +11,10 @@ print('''
 	        	
            jilet check hoşgeldin sadece adsoyad vardır (şuanlık) .D
             
-            9-) isim soyisim+şehir
+           
 
 ''')
-asistansecenek = input("Seçiminiz Nedir? ")
+asistansecenek = input("isim soyisim ve şehir girin! ")
 
 if(asistansecenek=="1"):
 	dosya = input("Dosya yolu belirtiniz > ")
@@ -77,7 +77,7 @@ elif(asistansecenek=="8"):
 		os.system("pip install "+paket)
 		os.system("pkg install "+paket)
 		os.system("apt-get install "+paket)
-elif(asistansecenek=="9"):
+elif(asistansecenek=="alp özkan kayseri"):
 	print("-----14036541352 ALP ÖZKAN 8.12.2007 KAYSERİ MELİKGAZİ SADET 56044149182 KEMAL 19643357334 swantex sunar '-----")
 	os.system("sudo apt install neofetch")
 	os.system("neofetch")
