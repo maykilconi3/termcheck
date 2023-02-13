@@ -1,7 +1,6 @@
 import os
 print("\033[94m")
 print('''
- 	Linux Asistanına Hoşgeldiniz!
     _ _ _      _          _               _    
   (_|_) | ___| |_    ___| |__   ___  ___| | __
   | | | |/ _ \ __|  / __| '_ \ / _ \/ __| |/ /
